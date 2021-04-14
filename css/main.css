@@ -1543,6 +1543,30 @@ header .logo a {
 	margin-bottom: 3rem;
 }
 
+#csharp{
+	background: #FFFFFF;
+	padding-top: 12rem;
+	padding-bottom: 15rem;
+}
+
+#java{
+	background: #FFFFFF;
+	padding-top: 12rem;
+	padding-bottom: 15rem;
+}
+
+#php{
+	background: #FFFFFF;
+	padding-top: 12rem;
+	padding-bottom: 15rem;
+}
+
+#stage{
+	background: #FFFFFF;
+	padding-top: 12rem;
+	padding-bottom: 15rem;
+}
+
 div#container{text-align:right;width: 1600px; margin-left: -550px}
 
 #projets {
@@ -1553,6 +1577,8 @@ div#container{text-align:right;width: 1600px; margin-left: -550px}
 #projets .section-intro {
 	margin-bottom: 3rem;
 }
+
+
 
 .intro-info {
 	margin-top: 4.2rem;
